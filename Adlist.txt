@@ -23,3 +23,13 @@
 0.0.0.0 www.googleadservices.com
 
 # Other Ads
+0.0.0.0 ads.adthrive.com
+0.0.0.0 ads.servenobid.com
+0.0.0.0 ads.trustx.org
+0.0.0.0 eur-bid-openpath.adsrvr.org
+0.0.0.0 ie1-openads.gen.adsrvr.org
+0.0.0.0 insight.adsrvr.org
+0.0.0.0 match.adsrvr.org
+0.0.0.0 rtb-csync-euw2.smartadserver.com
+0.0.0.0 ssbsync-euw1.smartadserver.com
+0.0.0.0 ssbsync-euw2.smartadserver.com
