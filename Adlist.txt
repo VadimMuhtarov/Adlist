@@ -23,12 +23,17 @@
 0.0.0.0 www.googleadservices.com
 
 # Other Ads
+0.0.0.0 ad-delivery.net
 0.0.0.0 ads.adthrive.com
 0.0.0.0 ads.servenobid.com
 0.0.0.0 ads.trustx.org
 0.0.0.0 adserver.technoratimedia.com
 0.0.0.0 adsninja.ca
+0.0.0.0 api.btloader.com
+0.0.0.0 btloader.com
+0.0.0.0 cdn.adt567.net
 0.0.0.0 eur-bid-openpath.adsrvr.org
+0.0.0.0 ib.anycast.adnxs.com
 0.0.0.0 ie1-openads.gen.adsrvr.org
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 match.adsrvr.org
@@ -38,3 +43,6 @@
 0.0.0.0 ssbsync-euw2.smartadserver.com
 0.0.0.0 ssp.ads.betweendigital.com
 0.0.0.0 telemetry.adsninja.ca
+0.0.0.0 x15.adv.lijit.com
+
+
