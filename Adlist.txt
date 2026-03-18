@@ -36,6 +36,8 @@
 0.0.0.0 ib.anycast.adnxs.com
 0.0.0.0 ie1-openads.gen.adsrvr.org
 0.0.0.0 insight.adsrvr.org
+0.0.0.0 inv-nets-eu-s3.admixer.net
+0.0.0.0 inv-nets.admixer.net
 0.0.0.0 match.adsrvr.org
 0.0.0.0 nados-lb-lhr.moatads.com
 0.0.0.0 rtb-csync-euw2.smartadserver.com
@@ -44,5 +46,4 @@
 0.0.0.0 ssp.ads.betweendigital.com
 0.0.0.0 telemetry.adsninja.ca
 0.0.0.0 x15.adv.lijit.com
-
 
