@@ -33,6 +33,7 @@
 0.0.0.0 api.btloader.com
 0.0.0.0 btloader.com
 0.0.0.0 cdn.adt567.net
+0.0.0.0 cm-us.advolve.io
 0.0.0.0 eur-bid-openpath.adsrvr.org
 0.0.0.0 ib.anycast.adnxs.com
 0.0.0.0 ie1-openads.gen.adsrvr.org
@@ -47,4 +48,3 @@
 0.0.0.0 ssp.ads.betweendigital.com
 0.0.0.0 telemetry.adsninja.ca
 0.0.0.0 x15.adv.lijit.com
-
