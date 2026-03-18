@@ -24,14 +24,20 @@
 0.0.0.0 www3.doubleclick.net
 
 # Other Ads
+0.0.0.0 4.adsco.re
+0.0.0.0 6.adsco.re
 0.0.0.0 ad-delivery.net
+0.0.0.0 ad.a-ads.com
+0.0.0.0 adexchangeclear.com
 0.0.0.0 ads.adthrive.com
 0.0.0.0 ads.servenobid.com
 0.0.0.0 ads.trustx.org
+0.0.0.0 adsco.re
 0.0.0.0 adserver.technoratimedia.com
 0.0.0.0 adsninja.ca
 0.0.0.0 api.btloader.com
 0.0.0.0 btloader.com
+0.0.0.0 c.adsco.re
 0.0.0.0 cdn.adt567.net
 0.0.0.0 cm-us.advolve.io
 0.0.0.0 eur-bid-openpath.adsrvr.org
@@ -48,3 +54,4 @@
 0.0.0.0 ssp.ads.betweendigital.com
 0.0.0.0 telemetry.adsninja.ca
 0.0.0.0 x15.adv.lijit.com
+0.0.0.0 xadsmart.com
