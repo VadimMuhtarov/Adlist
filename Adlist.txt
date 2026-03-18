@@ -37,3 +37,4 @@
 0.0.0.0 ssbsync-euw1.smartadserver.com
 0.0.0.0 ssbsync-euw2.smartadserver.com
 0.0.0.0 ssp.ads.betweendigital.com
+0.0.0.0 telemetry.adsninja.ca
