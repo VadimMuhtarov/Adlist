@@ -28,6 +28,7 @@
 0.0.0.0 6.adsco.re
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad.a-ads.com
+0.0.0.0 ad.mail.ru
 0.0.0.0 adexchangeclear.com
 0.0.0.0 ads.adthrive.com
 0.0.0.0 ads.servenobid.com
@@ -48,6 +49,7 @@
 0.0.0.0 inv-nets.admixer.net
 0.0.0.0 match.adsrvr.org
 0.0.0.0 nados-lb-lhr.moatads.com
+0.0.0.0 noti-eu.adsmoloco.com
 0.0.0.0 rtb-csync-euw2.smartadserver.com
 0.0.0.0 ssbsync-euw1.smartadserver.com
 0.0.0.0 ssbsync-euw2.smartadserver.com
