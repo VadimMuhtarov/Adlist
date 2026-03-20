@@ -30,6 +30,7 @@
 0.0.0.0 ad.a-ads.com
 0.0.0.0 ad.mail.ru
 0.0.0.0 adexchangeclear.com
+0.0.0.0 ads-flipp.com
 0.0.0.0 ads.adthrive.com
 0.0.0.0 ads.servenobid.com
 0.0.0.0 ads.trustx.org
@@ -42,6 +43,7 @@
 0.0.0.0 c.mgid.com
 0.0.0.0 cdn.adt567.net
 0.0.0.0 cm-us.advolve.io
+0.0.0.0 cm.idealmedia.io
 0.0.0.0 cm.mgid.com
 0.0.0.0 eur-bid-openpath.adsrvr.org
 0.0.0.0 ib.anycast.adnxs.com
@@ -52,7 +54,10 @@
 0.0.0.0 jsc.mgid.com
 0.0.0.0 match.adsrvr.org
 0.0.0.0 nados-lb-lhr.moatads.com
+0.0.0.0 nld-prebid.a-mx.net
 0.0.0.0 noti-eu.adsmoloco.com
+0.0.0.0 onetag-sys.com
+0.0.0.0 p.flipp.com
 0.0.0.0 rtb-csync-euw2.smartadserver.com
 0.0.0.0 s-img.mgid.com
 0.0.0.0 servicer.mgid.com
