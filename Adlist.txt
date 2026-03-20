@@ -1,3 +1,7 @@
+# adrta.com
+0.0.0.0 adrta.com
+0.0.0.0 ipds.adrta.com
+
 # admixer.net
 0.0.0.0 inv-nets-eu-s3.admixer.net
 0.0.0.0 inv-nets.admixer.net
@@ -88,7 +92,6 @@
 0.0.0.0 ad.a-ads.com
 0.0.0.0 ad.mail.ru
 0.0.0.0 adexchangeclear.com
-0.0.0.0 adrta.com
 0.0.0.0 ads.adthrive.com
 0.0.0.0 ads.servenobid.com
 0.0.0.0 ads.trustx.org
@@ -100,7 +103,6 @@
 0.0.0.0 cm-us.advolve.io
 0.0.0.0 cm.rtbsystem.com
 0.0.0.0 ib.anycast.adnxs.com
-0.0.0.0 ipds.adrta.com
 0.0.0.0 nados-lb-lhr.moatads.com
 0.0.0.0 nld-prebid.a-mx.net
 0.0.0.0 noti-eu.adsmoloco.com
