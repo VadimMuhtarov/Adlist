@@ -6,6 +6,10 @@
 0.0.0.0 inv-nets-eu-s3.admixer.net
 0.0.0.0 inv-nets.admixer.net
 
+# adnxs.com
+0.0.0.0 ib.anycast.adnxs.com
+0.0.0.0 m.anycast.adnxs.com
+
 # adsco.re
 0.0.0.0 4.adsco.re
 0.0.0.0 6.adsco.re
@@ -90,6 +94,7 @@
 # Other Ads
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad.a-ads.com
+0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 ad.mail.ru
 0.0.0.0 adexchangeclear.com
 0.0.0.0 ads.adthrive.com
@@ -102,10 +107,10 @@
 0.0.0.0 clck.adskeeper.com
 0.0.0.0 cm-us.advolve.io
 0.0.0.0 cm.rtbsystem.com
-0.0.0.0 ib.anycast.adnxs.com
 0.0.0.0 nados-lb-lhr.moatads.com
 0.0.0.0 nld-prebid.a-mx.net
 0.0.0.0 noti-eu.adsmoloco.com
+0.0.0.0 nydc1.outbrain.org
 0.0.0.0 onetag-sys.com
 0.0.0.0 ssp.ads.betweendigital.com
 0.0.0.0 www.googleadservices.com
