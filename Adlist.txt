@@ -106,6 +106,7 @@
 0.0.0.0 adexchangeclear.com
 0.0.0.0 ads.adthrive.com
 0.0.0.0 ads.servenobid.com
+0.0.0.0 ads.stickyadstv.com
 0.0.0.0 ads.trustx.org
 0.0.0.0 adserver.technoratimedia.com
 0.0.0.0 adservice.google.com
