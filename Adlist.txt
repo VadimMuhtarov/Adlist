@@ -91,6 +91,11 @@
 0.0.0.0 ch-vip001.taboola.com
 0.0.0.0 us-cds.taboola.com
 
+# tortuga.tw
+0.0.0.0 calypso.tortuga.tw
+0.0.0.0 db.tortuga.tw
+0.0.0.0 tortuga.tw
+
 # Other
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad.a-ads.com
@@ -107,12 +112,14 @@
 0.0.0.0 clck.adskeeper.com
 0.0.0.0 cm-us.advolve.io
 0.0.0.0 cm.rtbsystem.com
+0.0.0.0 franecki.net
 0.0.0.0 nados-lb-lhr.moatads.com
 0.0.0.0 nld-prebid.a-mx.net
 0.0.0.0 noti-eu.adsmoloco.com
 0.0.0.0 nydc1.outbrain.org
 0.0.0.0 onetag-sys.com
 0.0.0.0 ssp.ads.betweendigital.com
+0.0.0.0 v.nogravity4.click
 0.0.0.0 www.googleadservices.com
 0.0.0.0 x15.adv.lijit.com
 0.0.0.0 xadsmart.com
