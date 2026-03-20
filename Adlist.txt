@@ -1,47 +1,47 @@
-# adrta.com
+# adrta
 0.0.0.0 adrta.com
 0.0.0.0 ipds.adrta.com
 
-# admixer.net
+# admixer
 0.0.0.0 inv-nets-eu-s3.admixer.net
 0.0.0.0 inv-nets.admixer.net
 
-# adnxs.com
+# adnxs
 0.0.0.0 ib.anycast.adnxs.com
 0.0.0.0 m.anycast.adnxs.com
 
-# adsco.re
+# adsco
 0.0.0.0 4.adsco.re
 0.0.0.0 6.adsco.re
 0.0.0.0 adsco.re
 0.0.0.0 c.adsco.re
 
-# adsninja.ca
+# adsninja
 0.0.0.0 adsninja.ca
 0.0.0.0 telemetry.adsninja.ca
 
-# adsrvr.org
+# adsrvr
 0.0.0.0 eur-bid-openpath.adsrvr.org
 0.0.0.0 ie1-openads.gen.adsrvr.org
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 match.adsrvr.org
 
-# adtrafficquality.google
+# adtrafficquality
 0.0.0.0 ep1.adtrafficquality.google
 0.0.0.0 ep2.adtrafficquality.google
 
-# amazon-adsystem.com
+# amazon-adsystem
 0.0.0.0 c.aps.amazon-adsystem.com
 0.0.0.0 client.aps.amazon-adsystem.com
 0.0.0.0 config.aps.amazon-adsystem.com
 0.0.0.0 maws-aax-eu.amazon-adsystem.com
 0.0.0.0 s.amazon-adsystem.com
 
-# btloader.com
+# btloader
 0.0.0.0 api.btloader.com
 0.0.0.0 btloader.com
 
-# doubleclick.net
+# doubleclick
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
@@ -53,23 +53,23 @@
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 www3.doubleclick.net
 
-# flipp.com
+# flipp
 0.0.0.0 ads-flipp.com
 0.0.0.0 p.flipp.com
 
-# googlesyndication.com
+# googlesyndication
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
 
-# idealmedia.io
+# idealmedia
 0.0.0.0 c.idealmedia.io
 0.0.0.0 clck.idealmedia.io
 0.0.0.0 cm.idealmedia.io
 0.0.0.0 jsc.idealmedia.io
 0.0.0.0 s-img.idealmedia.io
 
-# mgid.com
+# mgid
 0.0.0.0 a.mgid.com
 0.0.0.0 c.mgid.com
 0.0.0.0 cdn.mgid.com
@@ -78,21 +78,26 @@
 0.0.0.0 s-img.mgid.com
 0.0.0.0 servicer.mgid.com
 
-# pub.network
+# permutive
+0.0.0.0 a.api.permutive.app
+0.0.0.0 api.permutive.com
+0.0.0.0 cdn.permutive.com
+
+# pub
 0.0.0.0 a.pub.network
 0.0.0.0 c.pub.network
 0.0.0.0 d.pub.network
 
-# smartadserver.com
+# smartadserver
 0.0.0.0 rtb-csync-euw2.smartadserver.com
 0.0.0.0 ssbsync-euw1.smartadserver.com
 0.0.0.0 ssbsync-euw2.smartadserver.com
 
-# taboola.com
+# taboola
 0.0.0.0 ch-vip001.taboola.com
 0.0.0.0 us-cds.taboola.com
 
-# tortuga.tw
+# tortuga
 0.0.0.0 calypso.tortuga.tw
 0.0.0.0 db.tortuga.tw
 0.0.0.0 tortuga.tw
@@ -119,6 +124,7 @@
 0.0.0.0 cm.rtbsystem.com
 0.0.0.0 franecki.net
 0.0.0.0 franeski.net
+0.0.0.0 idsync.rlcdn.com
 0.0.0.0 nados-lb-lhr.moatads.com
 0.0.0.0 nld-prebid.a-mx.net
 0.0.0.0 noti-eu.adsmoloco.com
