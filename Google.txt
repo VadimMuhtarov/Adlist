@@ -1,0 +1,15 @@
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 bid.g.doubleclick.net
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 dart.l.doubleclick.net
+0.0.0.0 ep1.adtrafficquality.google
+0.0.0.0 ep2.adtrafficquality.google
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pagead46.l.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 www3.doubleclick.net

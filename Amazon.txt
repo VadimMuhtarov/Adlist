@@ -1,0 +1,5 @@
+0.0.0.0 c.aps.amazon-adsystem.com
+0.0.0.0 client.aps.amazon-adsystem.com
+0.0.0.0 config.aps.amazon-adsystem.com
+0.0.0.0 maws-aax-eu.amazon-adsystem.com
+0.0.0.0 s.amazon-adsystem.com
