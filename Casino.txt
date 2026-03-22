@@ -2,4 +2,5 @@
 0.0.0.0 cdn3.adstag0102.xyz
 0.0.0.0 cdn77.srv224.com
 0.0.0.0 jkzyx.com
+0.0.0.0 s.schulist.link
 0.0.0.0 v.nogravity4.click
