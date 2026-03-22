@@ -1,5 +1,6 @@
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
+0.0.0.0 adservice.google.com
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 dart.l.doubleclick.net
@@ -12,5 +13,6 @@
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www3.doubleclick.net
