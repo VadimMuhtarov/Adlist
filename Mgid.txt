@@ -1,7 +1,0 @@
-0.0.0.0 a.mgid.com
-0.0.0.0 c.mgid.com
-0.0.0.0 cdn.mgid.com
-0.0.0.0 cm.mgid.com
-0.0.0.0 jsc.mgid.com
-0.0.0.0 s-img.mgid.com
-0.0.0.0 servicer.mgid.com
