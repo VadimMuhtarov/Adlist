@@ -75,9 +75,11 @@
 0.0.0.0 c.mgid.com
 0.0.0.0 cdn.mgid.com
 0.0.0.0 cm.mgid.com
+0.0.0.0 images.mgid.com
 0.0.0.0 jsc.mgid.com
 0.0.0.0 s-img.mgid.com
 0.0.0.0 servicer.mgid.com
+0.0.0.0 www.mgid.com
 
 # permutive
 0.0.0.0 a.api.permutive.app
