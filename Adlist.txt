@@ -43,6 +43,7 @@
 
 # doubleclick
 0.0.0.0 ad.doubleclick.net
+0.0.0.0 adx.g.doubleclick.net
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 dart.l.doubleclick.net
@@ -110,6 +111,7 @@
 0.0.0.0 ad.mail.ru
 0.0.0.0 adexchangeclear.com
 0.0.0.0 ads.adthrive.com
+0.0.0.0 ads.fr3.vip.prod.criteo.com
 0.0.0.0 ads.servenobid.com
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 ads.trustx.org
