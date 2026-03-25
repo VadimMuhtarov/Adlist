@@ -123,6 +123,7 @@
 0.0.0.0 adx.stack.bidster.net
 0.0.0.0 cdn.adt567.net
 0.0.0.0 cdn.trendii.com
+0.0.0.0 cdn77.srv224.com
 0.0.0.0 clck.adskeeper.com
 0.0.0.0 cm-us.advolve.io
 0.0.0.0 cm.rtbsystem.com
@@ -135,6 +136,7 @@
 0.0.0.0 nydc1.outbrain.org
 0.0.0.0 onetag-sys.com
 0.0.0.0 servetraff.com
+0.0.0.0 srv224.com
 0.0.0.0 ssp.ads.betweendigital.com
 0.0.0.0 v.nogravity4.click
 0.0.0.0 www.googleadservices.com
