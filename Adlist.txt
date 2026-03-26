@@ -143,6 +143,7 @@
 0.0.0.0 servetraff.com
 0.0.0.0 srv224.com
 0.0.0.0 ssp.ads.betweendigital.com
+0.0.0.0 tsyndicate.com
 0.0.0.0 v.nogravity4.click
 0.0.0.0 www.googleadservices.com
 0.0.0.0 x15.adv.lijit.com
