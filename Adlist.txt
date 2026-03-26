@@ -111,6 +111,7 @@
 0.0.0.0 ad.a-ads.com
 0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 ad.mail.ru
+0.0.0.0 ad2the.net
 0.0.0.0 adexchangeclear.com
 0.0.0.0 ads.adthrive.com
 0.0.0.0 ads.fr3.vip.prod.criteo.com
