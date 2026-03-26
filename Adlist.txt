@@ -81,6 +81,10 @@
 0.0.0.0 servicer.mgid.com
 0.0.0.0 www.mgid.com
 
+# onclckstr
+0.0.0.0 bid.onclckstr.com
+0.0.0.0 mauc.onclckstr.com
+
 # permutive
 0.0.0.0 a.api.permutive.app
 0.0.0.0 api.permutive.com
@@ -109,7 +113,9 @@
 0.0.0.0 static.ads-twitter.com
 
 # Other
+0.0.0.0 a.adspector.io
 0.0.0.0 a.adtng.com
+0.0.0.0 a.medfoodsafety.com
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad.a-ads.com
 0.0.0.0 ad.crwdcntrl.net
@@ -138,6 +144,7 @@
 0.0.0.0 nld-prebid.a-mx.net
 0.0.0.0 noti-eu.adsmoloco.com
 0.0.0.0 nydc1.outbrain.org
+0.0.0.0 onclckinp.com
 0.0.0.0 onetag-sys.com
 0.0.0.0 rtb.openx.net
 0.0.0.0 servetraff.com
