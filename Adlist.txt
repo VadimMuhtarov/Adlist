@@ -122,6 +122,7 @@
 0.0.0.0 ad.mail.ru
 0.0.0.0 ad2the.net
 0.0.0.0 adexchangeclear.com
+0.0.0.0 adpushupprebid.rtb.monetixads.com
 0.0.0.0 ads.adthrive.com
 0.0.0.0 ads.fr3.vip.prod.criteo.com
 0.0.0.0 ads.servenobid.com
@@ -140,12 +141,15 @@
 0.0.0.0 franecki.net
 0.0.0.0 franeski.net
 0.0.0.0 idsync.rlcdn.com
+0.0.0.0 ipm-mintads.in
 0.0.0.0 nados-lb-lhr.moatads.com
 0.0.0.0 nld-prebid.a-mx.net
 0.0.0.0 noti-eu.adsmoloco.com
 0.0.0.0 nydc1.outbrain.org
+0.0.0.0 ocifeedbackorigin.apdc2n.adpushup.com
 0.0.0.0 onclckinp.com
 0.0.0.0 onetag-sys.com
+0.0.0.0 report2.hb.brainlyads.com
 0.0.0.0 rtb.openx.net
 0.0.0.0 servetraff.com
 0.0.0.0 srv224.com
