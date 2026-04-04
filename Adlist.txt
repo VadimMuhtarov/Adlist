@@ -29,6 +29,9 @@
 0.0.0.0 config.aps.amazon-adsystem.com
 0.0.0.0 maws-aax-eu.amazon-adsystem.com
 0.0.0.0 s.amazon-adsystem.com
+# betweendigital
+0.0.0.0 lbs-eu1.ads.betweendigital.com
+0.0.0.0 ssp.ads.betweendigital.com
 # btloader
 0.0.0.0 api.btloader.com
 0.0.0.0 btloader.com
@@ -134,7 +137,6 @@
 0.0.0.0 rtb.openx.net
 0.0.0.0 servetraff.com
 0.0.0.0 srv224.com
-0.0.0.0 ssp.ads.betweendigital.com
 0.0.0.0 tsyndicate.com
 0.0.0.0 v.nogravity4.click
 0.0.0.0 vast.livejasmin.com
