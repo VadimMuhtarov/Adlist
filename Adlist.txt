@@ -87,6 +87,7 @@
 0.0.0.0 ssbsync-euw1.smartadserver.com
 0.0.0.0 ssbsync-euw2.smartadserver.com
 # taboola
+0.0.0.0 am-vip001.taboola.com
 0.0.0.0 ch-vip001.taboola.com
 0.0.0.0 us-cds.taboola.com
 # tortuga
