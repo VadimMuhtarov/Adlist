@@ -12,6 +12,16 @@
 0.0.0.0 6.adsco.re
 0.0.0.0 adsco.re
 0.0.0.0 c.adsco.re
+# adskeeper
+0.0.0.0 c.adskeeper.com
+0.0.0.0 cdn.adskeeper.co.uk
+0.0.0.0 cm.adskeeper.co.uk
+0.0.0.0 cm.adskeeper.com
+0.0.0.0 jsc.adskeeper.co.uk
+0.0.0.0 jsc.adskeeper.com
+0.0.0.0 s-img.adskeeper.co.uk
+0.0.0.0 servicer.adskeeper.com
+0.0.0.0 clck.adskeeper.com
 # adsninja
 0.0.0.0 adsninja.ca
 0.0.0.0 telemetry.adsninja.ca
@@ -124,7 +134,6 @@
 0.0.0.0 cdn.adt567.net
 0.0.0.0 cdn.trendii.com
 0.0.0.0 cdn77.srv224.com
-0.0.0.0 clck.adskeeper.com
 0.0.0.0 cm-us.advolve.io
 0.0.0.0 cm.rtbsystem.com
 0.0.0.0 franecki.net
