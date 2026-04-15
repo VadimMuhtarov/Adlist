@@ -128,7 +128,6 @@
 0.0.0.0 ads.trafficjunky.net
 0.0.0.0 ads.trustx.org
 0.0.0.0 adserver.technoratimedia.com
-0.0.0.0 adservice.google.com
 0.0.0.0 adservone.b-cdn.net
 0.0.0.0 adx.stack.bidster.net
 0.0.0.0 cdn.adt567.net
@@ -147,7 +146,6 @@
 0.0.0.0 noti-eu.adsmoloco.com
 0.0.0.0 nydc1.outbrain.org
 0.0.0.0 ocifeedbackorigin.apdc2n.adpushup.com
-0.0.0.0 ogads-pa.clients6.google.com
 0.0.0.0 onclckinp.com
 0.0.0.0 onetag-sys.com
 0.0.0.0 pixel.advertising.com
