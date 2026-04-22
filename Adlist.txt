@@ -24,11 +24,13 @@
 0.0.0.0 clck.adskeeper.com
 # adsninja
 0.0.0.0 adsninja.ca
+0.0.0.0 cdn.adsninja.ca
 0.0.0.0 telemetry.adsninja.ca
 # adsrvr
 0.0.0.0 eur-bid-openpath.adsrvr.org
 0.0.0.0 ie1-openads.gen.adsrvr.org
 0.0.0.0 insight.adsrvr.org
+0.0.0.0 js.adsrvr.org
 0.0.0.0 match.adsrvr.org
 0.0.0.0 openads-cdn.adsrvr.org
 # adtrafficquality
@@ -144,6 +146,7 @@
 0.0.0.0 cdn.adt567.net
 0.0.0.0 cdn.concert.io
 0.0.0.0 cdn.confiant-integrations.net
+0.0.0.0 cdn.membrana.media
 0.0.0.0 cdn.traffmovie.com
 0.0.0.0 cdn.trendii.com
 0.0.0.0 cdn77.srv224.com
