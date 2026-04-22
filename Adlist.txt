@@ -135,6 +135,7 @@
 0.0.0.0 adpushupprebid.rtb.monetixads.com
 0.0.0.0 ads.adthrive.com
 0.0.0.0 ads.fr3.vip.prod.criteo.com
+0.0.0.0 ads.pubmatic.com
 0.0.0.0 ads.servenobid.com
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 ads.trustx.org
@@ -143,6 +144,7 @@
 0.0.0.0 adx.stack.bidster.net
 0.0.0.0 api.bounceexchange.com
 0.0.0.0 assets.bounceexchange.com
+0.0.0.0 beeparentdo.com
 0.0.0.0 cdn.adt567.net
 0.0.0.0 cdn.concert.io
 0.0.0.0 cdn.confiant-integrations.net
@@ -154,6 +156,7 @@
 0.0.0.0 cm.rtbsystem.com
 0.0.0.0 franecki.net
 0.0.0.0 franeski.net
+0.0.0.0 get.optad360.io
 0.0.0.0 idsync.rlcdn.com
 0.0.0.0 ipm-mintads.in
 0.0.0.0 js.wpadmngr.com
