@@ -183,3 +183,4 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 x15.adv.lijit.com
 0.0.0.0 xadsmart.com
+0.0.0.0 widgets.stackcommerce.com
